@@ -1,5 +1,5 @@
 ### 👋 Hi there ! 
-This is my portfolio website(https://yuxuanlin-protfolio.zeabur.app/), feel free to take a look!
+This is my portfolio website(https://noz.vercel.app/), feel free to take a look!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoZ915&layout=compact)
 
