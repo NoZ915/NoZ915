@@ -14,30 +14,3 @@
 </a>
 
 </div>
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,php&theme=dark" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,vite&theme=dark" />
-</p>
-
-### Backend & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,laravel,mysql,graphql&theme=dark" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vercel,vscode&theme=dark" />
-</p>
